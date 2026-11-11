@@ -5,7 +5,7 @@
 <style>
 .color-box {
 width: 100%;
-height: 75px;
+height: auto;
 background-color: Orange;
 padding: 0;
 border: 0;
@@ -13,6 +13,17 @@ margin: 0;
 display: grid;
 place-items: center;
 }
+.color-box-2 {
+width: 80%;
+height: auto;
+background-color: Yellow;
+padding: 5%;
+border: 0;
+margin: 5%;
+display: grid;
+text-align:center;
+}
+
 </style>
 
 <title>Page Title</title>
@@ -21,10 +32,17 @@ place-items: center;
 <body>
 
 <div class="color-box">
-<H1>Hello Good Deals</H1>
+<H1 style="font-size: 36px">Hello Good Deals</H1>
 </div>
 
-<p>hello</p>
+<div class="color-box-2">
+<h3>The Best Little Card Shop In Town!</h3>
+<div class="color-box">hi</div>
+</div>
+
+<div class="color-box">
+Contact Us
+</div>
 
 
 </body>
