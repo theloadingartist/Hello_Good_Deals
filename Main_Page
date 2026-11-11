@@ -36,12 +36,33 @@ text-align:center;
 </div>
 
 <div class="color-box-2">
-<h3>The Best Little Card Shop In Town!</h3>
-<div class="color-box">hi</div>
+<h2>The Best Little Card Shop In Town!</h2>
+<div class="color-box"><p>-------------------</p></div>
 </div>
 
+<hr>
+
+<div class="color-box-2">
+<h3>We Buy!</h3>
+<div class="color-box">See Our Recent Buys and Rates</div>
+</div>
+
+<div class="color-box-2">
+<h3>We Sell!</h3>
+<div class="color-box">See Our Products</div>
+</div>
+
+<div class="color-box-2">
+<h3>We Trade!</h3>
+<div class="color-box">See Our Recent Trades and Rates</div>
+</div>
+
+<hr>
+
 <div class="color-box">
-Contact Us
+<p>Contact Us</p>
+<p>520 - XXX - XXX</p>
+<p>hellogooddeals@gmail</p>
 </div>
 
 
